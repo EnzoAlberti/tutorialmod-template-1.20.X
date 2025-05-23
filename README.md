@@ -19,7 +19,7 @@ src/
 
 ---
 
-## 🛠️ Tools & Tech
+##  Tools & Tech
 
 - Minecraft 1.20.X
 - Fabric Loader & Fabric API
